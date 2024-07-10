@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Introdução ao React",
+    "categoria": "Front-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/abcdef/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=abcdef",
+    "descricao": "Aprenda os conceitos básicos de React."
+  },
+  {
+    "id": 2,
+    "titulo": "Hooks no React",
+    "categoria": "Front-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/ghijk/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=ghijk",
+    "descricao": "Entenda como utilizar hooks no React."
+  },
+  {
+    "id": 3,
+    "titulo": "Styled Components",
+    "categoria": "Front-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/lmnop/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=lmnop",
+    "descricao": "Estilizando componentes no React."
+  },
+  {
+    "id": 4,
+    "titulo": "Introdução ao Node.js",
+    "categoria": "Back-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/qrstuv/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=qrstuv",
+    "descricao": "Aprenda os conceitos básicos de Node.js."
+  },
+  {
+    "id": 5,
+    "titulo": "APIs REST com Express",
+    "categoria": "Back-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/wxyzab/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=wxyzab",
+    "descricao": "Desenvolvimento de APIs REST com Express."
+  },
+  {
+    "id": 6,
+    "titulo": "MongoDB para Iniciantes",
+    "categoria": "Back-end",
+    "urlImagemCapa": "https://img.youtube.com/vi/cdefgh/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=cdefgh",
+    "descricao": "Introdução ao banco de dados MongoDB."
+  },
+  {
+    "id": 7,
+    "titulo": "Desenvolvimento Mobile com React Native",
+    "categoria": "Mobile",
+    "urlImagemCapa": "https://img.youtube.com/vi/ijklmn/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=ijklmn",
+    "descricao": "Primeiros passos com React Native."
+  },
+  {
+    "id": 8,
+    "titulo": "Componentes no React Native",
+    "categoria": "Mobile",
+    "urlImagemCapa": "https://img.youtube.com/vi/opqrst/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=opqrst",
+    "descricao": "Desenvolvimento de componentes no React Native."
+  },
+  {
+    "id": 9,
+    "titulo": "Navegação no React Native",
+    "categoria": "Mobile",
+    "urlImagemCapa": "https://img.youtube.com/vi/uvwxy/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=uvwxy",
+    "descricao": "Implementando navegação em apps React Native."
+  }
+]
