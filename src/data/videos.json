@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "titulo": "Introdução ao React",
+    "titulo": "Como testar seu Front-end? com Mario Souto",
     "categoria": "Front-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/abcdef/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=abcdef",
-    "descricao": "Aprenda os conceitos básicos de React."
+    "urlImagemCapa": "https://img.youtube.com/vi/CaTbfdsVydE/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+    "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar ✌😉"
   },
   {
     "id": 2,
-    "titulo": "Hooks no React",
+    "titulo": "O que faz uma desenvolvedora front-end?",
     "categoria": "Front-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/ghijk/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=ghijk",
-    "descricao": "Entenda como utilizar hooks no React."
+    "urlImagemCapa": "https://img.youtube.com/vi/ZY3-MFxVdEw/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+    "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio! "
   },
   {
     "id": 3,
-    "titulo": "Styled Components",
+    "titulo": "Métricas para o Front End com Mario Souto",
     "categoria": "Front-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/lmnop/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=lmnop",
-    "descricao": "Estilizando componentes no React."
+    "urlImagemCapa": "https://img.youtube.com/vi/iVNR-6v8lZU/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+    "descricao": "Você sabe quais métricas são importantes no Front-End? 🤔 Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site. Se você tá começando a programar ou ainda não sabe quais métricas utilizar no dia a dia, confira o conteúdo e anota as dicas pra colocar em prática. E se você já tem utilizado no seu site métricas incríveis que impactam diretamente na performance, conta pra gente nos comentários, queremos saber 😉✌"
   },
   {
     "id": 4,
-    "titulo": "Introdução ao Node.js",
+    "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
     "categoria": "Back-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/qrstuv/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=qrstuv",
-    "descricao": "Aprenda os conceitos básicos de Node.js."
+    "urlImagemCapa": "https://img.youtube.com/vi/fiPfvylj6rk/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+    "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔 A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
   },
   {
     "id": 5,
-    "titulo": "APIs REST com Express",
+    "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa",
     "categoria": "Back-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/wxyzab/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=wxyzab",
-    "descricao": "Desenvolvimento de APIs REST com Express."
+    "urlImagemCapa": "https://img.youtube.com/vi/PV9FoHvVE8k/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+    "descricao": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android. Dessa vez o @DevEficiente nos ajudou a entender quais as vantagens de usar Kotlin e as semelhanças que tem com Java. Vem conferir mais da capacidade dessa linguagem e como usá-la no universo da programação."
   },
   {
     "id": 6,
-    "titulo": "MongoDB para Iniciantes",
+    "titulo": "O que é Front End e Back End? Diferenças que Você Precisa Saber",
     "categoria": "Back-end",
-    "urlImagemCapa": "https://img.youtube.com/vi/cdefgh/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=cdefgh",
-    "descricao": "Introdução ao banco de dados MongoDB."
+    "urlImagemCapa": "https://img.youtube.com/vi/LDU4BCSxPp4/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=LDU4BCSxPp4",
+    "descricao": "Descubra as nuances das stacks tecnológicas e a diferença fundamental entre Front End e Back End neste vídeo! ✅ Acompanhe Guilherme Lima e Vinícius Neves, instrutores da Alura e experientes desenvolvedores, enquanto exploramos as bases dessas áreas e oferecemos dicas essenciais para iniciar sua jornada. Conheça as linguagens de programação Front End e Back End e as opções de cursos disponíveis. Pronto para mergulhar no universo do desenvolvimento web? Não perca esta oportunidade de aprendizado! 🤓"
   },
   {
     "id": 7,
     "titulo": "Desenvolvimento Mobile com React Native",
     "categoria": "Mobile",
-    "urlImagemCapa": "https://img.youtube.com/vi/ijklmn/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=ijklmn",
-    "descricao": "Primeiros passos com React Native."
+    "urlImagemCapa": "https://img.youtube.com/vi/fWscDFHKgw8/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+    "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
   },
   {
     "id": 8,
-    "titulo": "Componentes no React Native",
+    "titulo": "Híbridos: Flutter e React Native",
     "categoria": "Mobile",
-    "urlImagemCapa": "https://img.youtube.com/vi/opqrst/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=opqrst",
-    "descricao": "Desenvolvimento de componentes no React Native."
+    "urlImagemCapa": "https://img.youtube.com/vi/vf9P_PycgRw/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=vf9P_PycgRw",
+    "descricao": "Quarto episódio saiu do forno! 🥰 Depois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular 🤩"
   },
   {
     "id": 9,
-    "titulo": "Navegação no React Native",
+    "titulo": "Desmistificando mobile",
     "categoria": "Mobile",
-    "urlImagemCapa": "https://img.youtube.com/vi/uvwxy/0.jpg",
-    "urlVideo": "https://www.youtube.com/watch?v=uvwxy",
-    "descricao": "Implementando navegação em apps React Native."
+    "urlImagemCapa": "https://img.youtube.com/vi/fmu1LQvZhms/0.jpg",
+    "urlVideo": "https://www.youtube.com/watch?v=fmu1LQvZhms",
+    "descricao": "Segundo episódio no ar! 🥳 No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um pouco mais sobre frameworks e linguagens de programação e porque existem diferentes para fazer um aplicativo de celular. Vêm aprender um pouco na companhia do Alex Felipe, da Nathalia Thiel, Giovanna Moeller e do Caio Couto 😉"
   }
 ]

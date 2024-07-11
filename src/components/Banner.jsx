@@ -16,15 +16,20 @@ const BannerContainer = styled.div`
   .banner-video {
     flex: 1;
   }
+    p {
+    padding:24px;
+    background-color: #2271D1;
+    }
 `;
 
 const Tag = styled.span`
-  background-color: ${({ theme, categoria }) => theme.colors[categoria]};
-  color: #000;
+  background-color: #2271D1;
+  color: #fff;
   padding: 0.5rem 1rem;
   border-radius: 8px;
   display: inline-block;
   margin-bottom: 1rem;
+  
 `;
 
 const Info = styled.div`
