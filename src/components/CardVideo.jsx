@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import { useVideoContext } from '../context/VideoContext';
 import DialogForm from './DialogForm';
+import VideoDialog from './VideoDialog';
 
 const CardContainer = styled.div`
   position: relative;
@@ -32,6 +33,7 @@ const Button = styled.button`
 const CardVideo = ({ video }) => {
   const { removerVideo } = useVideoContext();
   const [isDialogOpen, setDialogOpen] = useState(false);
+  const [isVideoDialogOpen, setVideoDialogOpen] = useState(false);
 
   const handleEditClick = () => {
     setDialogOpen(true);
@@ -41,14 +43,19 @@ const CardVideo = ({ video }) => {
     removerVideo(video.id);
   };
 
+  const handleVideoClick = () => {
+    setVideoDialogOpen(true);
+  };
+
   return (
     <CardContainer>
-      <VideoThumb src={video.urlImagemCapa} alt={video.titulo} />
+      <VideoThumb src={video.urlImagemCapa} alt={video.titulo} onClick={handleVideoClick} />
       <CardActions>
         <Button onClick={handleRemoveClick}>🗑 Deletar</Button>
         <Button onClick={handleEditClick}>✏️ Editar</Button>
       </CardActions>
       {isDialogOpen && <DialogForm video={video} onClose={() => setDialogOpen(false)} />}
+      {isVideoDialogOpen && <VideoDialog video={video} onClose={() => setVideoDialogOpen(false)} />}
     </CardContainer>
   );
 };

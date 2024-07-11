@@ -3,12 +3,13 @@ import styled from 'styled-components';
 import CardVideo from './CardVideo';
 
 const SectionContainer = styled.section`
-  padding: 2rem;
+  padding: 2rem 0;
 `;
 
 const SectionTitle = styled.h2`
-  background: ${({ theme }) => theme.colors.primary};
+  background: ${({ theme, categoria }) => theme.colors[categoria]};
   padding: 0.5rem 1rem;
+  color: #000;
 `;
 
 const VideosContainer = styled.div`
@@ -17,14 +18,14 @@ const VideosContainer = styled.div`
   overflow-x: auto;
 `;
 
-const Section = ({ title, videos }) => {
+const Section = ({ title, videos, categoria }) => {
   if (videos.length === 0) {
     return null;
   }
 
   return (
     <SectionContainer>
-      <SectionTitle>{title}</SectionTitle>
+      <SectionTitle categoria={categoria}>{title}</SectionTitle>
       <VideosContainer>
         {videos.map((video) => (
           <CardVideo key={video.id} video={video} />

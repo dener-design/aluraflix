@@ -18,18 +18,18 @@ const Home = () => {
   const allSectionsEmpty = frontEndVideos.length === 0 && backEndVideos.length === 0 && mobileVideos.length === 0;
 
   return (
-    <>
+    <div className="container">
       <Banner video={bannerVideo} />
       {allSectionsEmpty ? (
         <EmptyMessage>Nenhum vídeo cadastrado</EmptyMessage>
       ) : (
         <>
-          <Section title="Front-end" videos={frontEndVideos} />
-          <Section title="Back-end" videos={backEndVideos} />
-          <Section title="Mobile" videos={mobileVideos} />
+          <Section title="Front-end" videos={frontEndVideos} categoria="frontEnd" />
+          <Section title="Back-end" videos={backEndVideos} categoria="backEnd" />
+          <Section title="Mobile" videos={mobileVideos} categoria="mobile" />
         </>
       )}
-    </>
+    </div>
   );
 };
 
